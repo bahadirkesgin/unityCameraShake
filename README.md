@@ -1,4 +1,4 @@
-# Unity Headbob
+# Unity Camera Shake
 <img align="right" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" />
  Headbob code for your unity first person games. Headbob intensity varies by stamina or moving state(walking, running).
 
